@@ -1,0 +1,91 @@
+
+.logo
+{
+  width: 15%;
+  border-radius:50%;
+}
+.logo:hover
+{
+  width:16%;
+  transition: ease 1s;
+}
+
+header {
+  padding: 1rem;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+background-color: rgb(148,200,64);
+}
+
+
+header nav {
+  display: inline-block;
+  margin: 0 1rem;
+  font-size: 1.5rem;
+}
+
+.navtext
+{
+  padding: 0 3rem 0 3rem;
+  text-decoration: none;
+  color: rgb(82,62,51);
+}
+.navtext:hover
+{
+  font-size: 1.75rem;
+   transition: ease 1.5s;
+}
+nav ul
+{
+list-style-type: none;
+color: rgb(82,62,51);
+}
+
+body
+{
+  padding: 0;
+  margin: 0;
+  background-color:  rgb(214,232,184);
+}
+
+
+main {
+
+  width: 68rem;
+  margin: 0 auto;
+}
+
+
+
+.homepic
+{
+  width: 100%;
+
+}
+.descriptioninfo
+{
+  width: 100%;
+}
+.sectionone
+{
+  width:70%;
+  margin: 2rem auto 0 auto;
+}
+
+.sectiontwo
+{
+
+  width: 70%;
+  margin: 0 auto;
+}
+
+footer{
+background-color:  rgb(82,62,51);
+padding:2rem 0 2rem 0;
+}
+
+.footertext
+{
+  text-decoration: none;
+  color: white;
+padding:0 2rem 0 2rem;
+}
